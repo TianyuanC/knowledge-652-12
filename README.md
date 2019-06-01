@@ -1,17 +1,19 @@
-# Knowledge Webinar 11
+# Knowledge Webinar 12
 
 In this webinar, I will cover the following topics:
 
--   React Native overview
--   Development environment (with Simulators)
--   Development environment (with Devices)
--   Alternative development environment (Snack)
--   Flutter Comparisons
+-   FAQs in React Native
+    -   Deprecation in `Notification`
+    -   Deprecation in `AsyncStorage`
+    -   Flex Issues
+-   React Native Layout
+-   Animation APIs
+-   TC39: Pipeline Operator
 
 They are tentative topics, the real subjects will be decided during this week's one-on-one sessions.
 
 ## Resources
 
-[Slides](https://tianyuanc.github.io/knowledge-652-11/#0)
+[Slides](https://tianyuanc.github.io/knowledge-652-12/#0)
 
-[Video](https://tianyuanc.github.io/knowledge-652-11/#9)
+[Video](https://tianyuanc.github.io/knowledge-652-12/#9)
